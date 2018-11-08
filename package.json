@@ -1,0 +1,18 @@
+{
+  "name": "class_projects",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Axolotl <samuelmachat@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "morgan": "^1.9.1"
+  },
+  "scripts": {
+    "server": "nodemon"
+  },
+  "devDependencies": {
+    "helmet": "^3.15.0",
+    "nodemon": "^1.18.6"
+  }
+}
