@@ -9,6 +9,7 @@
     "morgan": "^1.9.1"
   },
   "scripts": {
+    "start": "node index.js",
     "server": "nodemon"
   },
   "devDependencies": {
